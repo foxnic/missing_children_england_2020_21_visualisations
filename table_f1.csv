@@ -1,0 +1,40 @@
+police_force,care_incidents,care_individuals,care_ratio,not_care_incidents,not_care_individuals,not_care_ratio
+Avon and Somerset 2,936,256,3.7,"1,861",909,2
+Bedfordshire 2,474,72,6.6,"1,241",553,2.2
+Cambridgeshire 2,239,48,5,"1,562",664,2.4
+Cheshire 2,"1,369",453,3,"1,928","1,206",1.6
+City of London,0,0,0,1,1,1
+Cleveland,629,190,3.3,376,262,1.4
+Cumbria 2,588,158,3.7,939,364,2.6
+Derbyshire 2,"1,423",198,7.2,"1,019",555,1.8
+Devon and Cornwall 2,"1,845",304,6.1,"1,947",978,2
+Dorset,x,x,x,x,x,x
+Durham,x,x,x,x,x,x
+Essex 2,"2,148",392,5.5,"1,679","1,011",1.7
+Gloucestershire 2,x,x,x,x,x,x
+Greater Manchester,x,x,x,x,x,x
+Hampshire,x,x,x,x,x,x
+Hertfordshire 2,"1,373",211,6.5,"1,141",670,1.7
+Humberside 2,"1,215",184,6.6,"1,967",814,2.4
+Kent 2,"1,189",157,7.6,"4,371","1,661",2.6
+"Lancashire 2, 3",x,x,x,x,x,x
+Leicestershire 2,"1,325",177,7.5,"1,136",611,1.9
+Lincolnshire 2,311,85,3.7,682,372,1.8
+Merseyside 2,x,x,x,x,x,x
+Metropolitan 2,846,293,2.9,"20,155","6,716",3
+Norfolk 2,"1,283",165,7.8,900,492,1.8
+North Yorkshire 2,135,19,7.1,"1,149",493,2.3
+Northamptonshire 2,"1,033",153,6.8,"1,056",502,2.1
+"Northumbria 2, 3","2,954",516,5.7,"2,807","1,598",1.8
+Nottinghamshire 2,543,202,2.7,803,549,1.5
+South Yorkshire,"2,112",x,x,x,x,x
+Staffordshire 2,x,x,x,x,x,x
+Suffolk 2,"2,071",149,13.9,941,456,2.1
+Surrey,x,x,x,x,x,x
+"Sussex 2, 3","1,493",359,4.2,"2,358","1,049",2.2
+Thames Valley,x,x,x,x,x,x
+Warwickshire,591,105,5.6,627,312,2
+West Mercia,736,263,2.8,789,525,1.5
+West Midlands 2,"4,378",752,5.8,"3,694","1,876",2
+West Yorkshire 2,"2,551",689,3.7,"3,672","2,044",1.8
+"Wiltshire 2,3",440,111,4,373,238,1.6
