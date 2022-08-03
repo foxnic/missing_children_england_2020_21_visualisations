@@ -41,3 +41,17 @@ There are 2 Google Colab notebooks (and equivalent .py files) - one for the data
 
 ![Recorded Missing Children in England 2015_16 to 2020_21.](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Recorded%20Missing%20Children%20in%20England%202015_16%20to%202020_21.png)
 
+![Number of Children Recorded Missing.](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Number%20of%20Children%20Recorded%20Missing.png)
+
+![Change Since Previous Year](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Change%20Since%20Previous%20Year.png)
+
+![Age group distribution](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Age%20group%20distribution.png)
+
+![Number childrens home places](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Number%20childrens%20home%20places.png)
+
+![Childrens home sector distribution](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Childrens%20home%20sector%20distribution.png)
+
+![Private childrens home providers](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Private%20childrens%20home%20providers.png)
+
+![Care Summary Heatmaps](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Care%20Summary%20Heatmaps.png)
+
