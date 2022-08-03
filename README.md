@@ -36,3 +36,8 @@ There are 2 Google Colab notebooks (and equivalent .py files) - one for the data
     - Childrens home sector distribution.png
     - Private childrens home providers.png
     - Care Summary Heatmaps.png
+    
+## Visualisations
+
+![Recorded Missing Children in England 2015_16 to 2020_21.](Recorded Missing Children in England 2015_16 to 2020_21.png)
+
