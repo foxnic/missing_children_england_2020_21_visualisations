@@ -39,5 +39,5 @@ There are 2 Google Colab notebooks (and equivalent .py files) - one for the data
     
 ## Visualisations
 
-![Recorded Missing Children in England 2015_16 to 2020_21.](Recorded Missing Children in England 2015_16 to 2020_21.png)
+![Recorded Missing Children in England 2015_16 to 2020_21.](https://github.com/foxnic/missing_children_england_2020_21_visualisations/blob/main/Recorded%20Missing%20Children%20in%20England%202015_16%20to%202020_21.png)
 
